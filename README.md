@@ -54,26 +54,17 @@
 ```
 
 `Скрин 1 к заданию 1`                                    
-![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/1.png)
-
-
-
-2. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/2.png)
-3. `Выполнил Fork https://github.com/Replica63/Jenkins-8-02.md`
-4. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3.png)
-   ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3.1.png)
-   ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3.2.png)
-
+![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/1.png)
+![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/2.png)
+![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/3.png)
+![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/4.png)
 
 
 ---
 
 ### Задание 2
-Что нужно сделать:
 
-1. Создайте новый проект pipeline.
-2. Перепишите сборку из задания 1 на declarative в виде кода.
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
 
 ### Решение 2
 
